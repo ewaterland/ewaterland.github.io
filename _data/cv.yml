@@ -1,12 +1,14 @@
-- title: General Information
+- title: Information
   type: map
   contents:
     - name: Name
       value: Suji Lee
-    - name: Date of Birth
-      value: 12th October 2001
+    - name: Email
+      value: ewatelan@gmail.com
     - name: Skill
       value: Python, Machine Learning, JAVA, Android Studio
+    - name: Github
+      value: https://github.com/ewaterland
 
 - title: Education
   type: time_table
