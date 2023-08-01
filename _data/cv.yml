@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 12th October 2001
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
@@ -17,39 +17,45 @@
       description:
         - Department of Information and Communication Engineering, Chosun University, the Republic of Korea
         - major: Information and Communication Engineering
+        
+    - title: Undergraduate researcher
+      institution: Multimedia Information Processing Laboratoryy (MIPL), Chosun University
+      year: 2022 - 2023
+      description:
+        - 
+        
+    - title: Undergraduate researcher
+      institution: Cognitive Coimmunications Systems Laboratory (CCSL), Chosun University
+      year: 2021 - 2022
+      description:
+        - 
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: International Joint Project
+      institution: Chosun University
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            
+    - title: QI Overseas Education Training
+      institution: University of California, U.S.
+      year: 2023
+      description: 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: University·Company·Hospital Project (AI Healthcare)
+      institution: Chosun University
+      year: 2023
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: SVSTIP Project
+      institution: San Jose State University, California
+      year: 2022
       description:
 
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      year: 2022
 
 - title: Open Source Projects
   type: time_table
