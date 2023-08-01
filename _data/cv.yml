@@ -5,8 +5,8 @@
       value: Suji Lee
     - name: Date of Birth
       value: 12th October 2001
-    - name: Languages
-      value: Korean, English
+    - name: Skill
+      value: Python, Machine Learning, JAVA, Android Studio
 
 - title: Education
   type: time_table
