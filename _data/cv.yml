@@ -52,16 +52,16 @@
       description:
     
     - year: 2023
-      title: abc
-      title: abc2
-      description: dfadfa
+      items:
+        - International Joint Project, Chosun University
+        - QI Overseas Education Training, California University, U.S.
 
 - title: Awards
   type: time_table
   contents:
-    - year: Jun. 2023
+    - year: 2023
       items: 
         - Chosun University Capstone Design Competition Bronze Award
-    - year: Nov. 2022
+    - year: 2022
       items: 
         - Chosun University IT Festival Bronze Award
