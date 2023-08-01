@@ -18,10 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Education
 
-- Mar. 2020 - present
-  - Bachelor of engineering (major: Information and Communication Engineering)
-  - Department of Information and Communication Engineering, Chosun University, the Republic of Korea
-
----
