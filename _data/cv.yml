@@ -8,7 +8,7 @@
     - name: Skill
       value: Python, Machine Learning, JAVA, Android Studio
     - name: Github
-      value: https://github.com/ewaterland
+      value: <a href="https://github.com/ewaterland">ewaterland</a>
 
 - title: Education
   type: time_table
