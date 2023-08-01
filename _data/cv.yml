@@ -50,6 +50,11 @@
       institution: San Jose State University, California
       year: Jul. 2022
       description:
+    
+    - year: 2023
+      title: abc
+      title: abc2
+      description: dfadfa
 
 - title: Awards
   type: time_table
