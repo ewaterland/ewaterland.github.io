@@ -51,3 +51,13 @@
     - year: 2022
       items: 
         - Chosun University IT Festival Bronze Award
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Su-ji Lee, Gyu-bin Kim, Joo-Hyun Kim. "Analysis of Heart Disease Classification Using Machine Learning Algorithms". The Korean Institute of Communications and Information Sciences
+    - year: 2022
+      items: 
+        - Si-yun Jeon, Su-ji Lee, Gyu-bin Kim. "Performance Analysis of various U-Net architectures for Image Segmentation". KIIS Autumn Conference
