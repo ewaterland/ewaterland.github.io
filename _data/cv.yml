@@ -22,24 +22,31 @@
       institution: Multimedia Information Processing Laboratory (MIPL), Chosun University
       year: 2022 - 2023
       description:
-        
-    - title: Undergraduate researcher
-      institution: Cognitive Coimmunications Systems Laboratory (CCSL), Chosun University
-      year: 2021 - 2022
-      description:
-
 
 - title: Experience
   type: time_table
   contents:
-    - year: 2023
+    - year: 2023 - present
       items:
         - International Joint Project, Chosun University
+        
+    - year: 2022 - present
+      items:
+        - Undergraduate researcher, Multimedia Information Processing Laboratory (MIPL), Chosun University
+
+    - year: 2023
+      items:
         - QI Overseas Education Training, California University, U.S.
+        
     - year: 2022
       items:
+        - Undergraduate researcher, Cognitive Coimmunications Systems Laboratory (CCSL), Hanbat National University
         - University·Company·Hospital Project, Chosun University
         - SVSTIP Project, San Jose State University, California
+
+    - year: 2021 - 2022
+      items:
+        - Undergraduate researcher, Cognitive Coimmunications Systems Laboratory (CCSL), Chosun University
 
 - title: Awards
   type: time_table
