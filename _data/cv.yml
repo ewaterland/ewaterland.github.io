@@ -17,6 +17,7 @@
       description:
         - Department of Information and Communication Engineering, Chosun University, the Republic of Korea
         - "major: Information and Communication Engineering"
+        - "Convergence Major: AI Healthcare"
         
     - title: Undergraduate researcher
       institution: Multimedia Information Processing Laboratory (MIPL), Chosun University
@@ -32,29 +33,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: International Joint Project
-      institution: Chosun University
-      year: 2023
-      description:
-            
-    - title: QI Overseas Education Training
-      institution: California University, U.S.
-      year: Jan. 2023 - Feb. 2023
-      description: 
-
-    - title: University·Company·Hospital Project (AI Healthcare)
-      institution: Chosun University
-      year: Jul. 2022 - 0ct. 2022
-
-    - title: SVSTIP Project
-      institution: San Jose State University, California
-      year: Jul. 2022
-      description:
-    
     - year: 2023
       items:
         - International Joint Project, Chosun University
         - QI Overseas Education Training, California University, U.S.
+    - year: 2022
+      items:
+        - University·Company·Hospital Project, Chosun University
+        - SVSTIP Project, San Jose State University, California
 
 - title: Awards
   type: time_table
