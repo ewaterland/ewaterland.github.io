@@ -11,8 +11,12 @@ category: Team
 - 3주동안 앱을 이용해 창업 아이디어를 구현
 - 앱 개발자를 위한 베타 테스터 앱 개발
 
+---
+
 ## 프로젝트 내용
 - 앱 개발자를 위한 베타 테스터 앱의 프론트엔드 구현
+
+---
 
 ## 프로젝트 결과
 - SVSTIP 프로젝트 8팀 중 4등
@@ -52,4 +56,5 @@ category: Team
         {% include figure.html path="assets/img/projects/3_project_10.png" title="Ranking image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
