@@ -1,11 +1,24 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: QI 심장병 분류 프로젝트
+description: 2023 / Machine Learning / KNIME
 img: assets/img/1.jpg
 importance: 3
 category: Team
 ---
+
+## 프로젝트 목표
+
+
+---
+
+## 프로젝트 내용
+
+
+---
+
+## 프로젝트 결과
+- Su-ji Lee, Gyu-bin Kim, Joo-Hyun Kim. "Analysis of Heart Disease Classification Using Machine Learning Algorithms". The Korean Institute of Communications and Information Sciences
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
