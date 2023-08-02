@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 대학·기업·병원 협업 프로젝트
-description: a project with a background image and giscus comments
+description: 2022 / Python / Deep Learning / Jupyter Notebook
 img: assets/img/3.jpg
 importance: 2
 category: Team
