@@ -2,7 +2,7 @@
 layout: page
 title: 대학·기업·병원 협업 프로젝트
 description: 2022 / Python / Deep Learning / Jupyter Notebook
-img: assets/img/3.jpg
+img: assets/img/projects/2_project_1.jpg
 importance: 2
 category: Team
 giscus_comments: true
@@ -23,7 +23,7 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2_project_1.jpg" title="result image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/2_project_2.jpg" title="result image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
