@@ -15,6 +15,7 @@ category: Team
 - 앱 개발자를 위한 베타 테스터 앱의 프론트엔드 구현
 
 ## 프로젝트 결과
+- SVSTIP 프로젝트 8팀 중 4등
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
