@@ -1,25 +1,21 @@
 ---
 layout: page
-title: project 2
+title: 대학·기업·병원 협업 프로젝트
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: Single
+category: Team
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## 프로젝트 목표
+- 기존에 있는 U-Net을 개발하여 성능 향상
+- 직접 라벨링한 치아 데이터셋을 이용하여 성능 확인
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## 프로젝트 내용
+- [Supervise.ly](https://supervisely.com/)를 사용하여 병원에서 제공한 치아 데이터셋 103장 라벨링
+- 라벨링한 치아 데이터셋을 활용하여 구조를 변경한 U-Net 성능 확인
+- Si-yun Jeon, Su-ji Lee, Gyu-bin Kim. "Performance Analysis of various U-Net architectures for Image Segmentation". KIIS Autumn Conference 2022 Vol. 32, No. 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -69,13 +65,5 @@ Here's the code for the last row of images above:
 
 {% raw %}
 ```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
+
 {% endraw %}
