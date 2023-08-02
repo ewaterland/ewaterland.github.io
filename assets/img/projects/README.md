@@ -3,5 +3,5 @@
 - 3_project: SVSTIP 프로젝트
 - 4_project: MFC 노래 퀴즈 프로그램
 - 5_project: QI 심장병 분류 프로젝트
-- 6_project: 헬스케어 자세 분류 어플리케이션
+- 6_project: 요가 자세 분류 어플리케이션
 - 7_project: 실내 위치 추정 라인트래킹 로봇 (~ing)
