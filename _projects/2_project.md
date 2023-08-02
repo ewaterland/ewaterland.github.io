@@ -5,7 +5,6 @@ description: 2022 / Python / Deep Learning / Jupyter Notebook
 img: assets/img/projects/2_project_1.JPG
 importance: 2
 category: Team
-giscus_comments: true
 ---
 
 ## 프로젝트 목표
