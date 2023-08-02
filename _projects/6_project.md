@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: 요가 자세 분류 어플리케이션
+description: 2023 / Python / Android Studio(JAVA) / Raspberry Pi 4B
 img:
 importance: 4
 category: Team
