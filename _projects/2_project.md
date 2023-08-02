@@ -12,9 +12,11 @@ giscus_comments: true
 - 기존에 있는 U-Net을 개발하여 성능 향상
 - 직접 라벨링한 치아 데이터셋을 이용하여 성능 확인
 
+
 ## 프로젝트 내용
 - [Supervise.ly](https://supervisely.com/)를 사용하여 병원에서 제공한 치아 데이터셋 103장 라벨링
-- 라벨링한 치아 데이터셋을 활용하여 구조를 변경한 U-Net 성능 확인
+- 라벨링한 치아 데이터셋을 활용하여 구조를 변경한 U-Net(=>IU-Net) 성능 확인
+
 
 ## 프로젝트 결과
 - Original U-Net Accuracy: 0.96734
