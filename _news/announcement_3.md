@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Chosun University Capstone Design Competition Bronze Award :sparkles: :smile:
+Chosun University Capstone Design Competition Bronze Award
