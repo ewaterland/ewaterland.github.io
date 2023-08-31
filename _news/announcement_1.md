@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-10-30 15:59:00-0400
+date: 2023-02-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Chosun University University Corporate Hospital Project
+University of California, U.S. QI Overseas Education Training
