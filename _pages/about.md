@@ -4,16 +4,16 @@ title: About
 permalink: /
 subtitle:
 
-CONTACT
+**CONTACT**
 
 Email
 ewatelan@gmail.com
 
 Github
-https://github.com/ewaterland
+"https://github.com/ewaterland"
 
 Blog
-https://ewaterland.tistory.com/
+"https://ewaterland.tistory.com/"
 
 profile:
   align: right
