@@ -26,5 +26,5 @@ category: Team
 
 ## 프로젝트 결과
 
-{% include figure.html path="assets/img/projects/6_project_0.png" title="Login page" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/projects/6_project_0.png" title="App Screenshot" class="img-fluid rounded z-depth-1" %}
 App Screenshot
