@@ -7,8 +7,6 @@
       value: ewatelan@gmail.com
     - name: Skill
       value: JAVA, Android Studio, Python, Machine Learning, SQL, C++
-    - name: Github
-      value: <a href="https://github.com/ewaterland">ewaterland</a>
 
 - title: Education
   type: time_table
