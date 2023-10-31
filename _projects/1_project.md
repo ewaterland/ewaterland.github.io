@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 통신용 송수신기 개발
+title: 통신용 보안 송수신기 개발
 description: 2022.04.-2022.10. / Python / Visual Studio Code
 img: assets/img/projects/1_project_1.png
 importance: 1
