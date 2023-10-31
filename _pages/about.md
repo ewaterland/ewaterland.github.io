@@ -2,7 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: CONTACT
+subtitle:
+
+**CONTACT**
+Email
+ewatelan@gmail.com
+
+Github
+https://github.com/ewaterland
+
+Blog
+https://ewaterland.tistory.com/
 
 profile:
   align: right
