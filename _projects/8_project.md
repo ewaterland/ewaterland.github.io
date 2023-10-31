@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 경도인지장애 예방을 위한 챗봇 서비스 앱
-description: 2023 / Android Studio(JAVA)
+description: 2023.08. / Android Studio(JAVA)
 img: assets/img/projects/8_project_thumbnail.jpg
 importance: 3
 category: Team
