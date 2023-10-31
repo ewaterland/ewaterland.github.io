@@ -9,12 +9,12 @@ category: Team
 
 ## 프로젝트 목표
 - 3주동안 앱을 이용해 창업 아이디어를 구현
-- 앱 개발자를 위한 베타 테스터 앱 개발
+- 앱 개발자를 위한 베타 테스터 앱의 프론트엔드 구현
 
 ---
 
 ## 프로젝트 내용
-- 앱 개발자를 위한 베타 테스터 앱의 프론트엔드 구현
+- 앱 이름: Contester
 - 주관: 산호세 주립대학교, Silicon Valley Conter for Operations & Technology Management Program
 
 ---
