@@ -2,7 +2,7 @@
 layout: page
 title: 요가 자세 분류 어플리케이션
 description: 2023 / Python / Android Studio(JAVA) / Raspberry Pi 4B / Firebase
-img: 	assets/img/projects/6_project_5.png
+img: 	assets/img/projects/6_project_0.png
 importance: 4
 category: Team
 ---
