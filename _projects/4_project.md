@@ -1,11 +1,13 @@
 ---
 layout: page
 title: MFC 노래 퀴즈 프로그램
-description: 2022 / C++ / MFC / Visual Studio 2019
+description: 2022.03.-06. / C++ / MFC / Visual Studio 2019
 img: assets/img/projects/4_project_1.png
 importance: 3
 category: Team
 ---
+
+해당 프로그램은 정보통신공학부의 학부 과정인 "통신SW설계" 과목을 수강하면서 진행하게 된 팀 프로젝트입니다. 팀원은 총 3명으로 구성되어 있으며, 제가 조장으로서 프로그램 개발을 맡았습니다.
 
 ## 프로젝트 목표
 - 하나의 서버에 여러 참가자들이 모여서 재생되는 노래를 듣고, 채팅을 이용해 선착순으로 노래 제목을 맞추는 게임
