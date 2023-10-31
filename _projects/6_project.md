@@ -2,7 +2,7 @@
 layout: page
 title: 요가 자세 분류 어플리케이션
 description: 2023 / Python / Android Studio(JAVA) / Raspberry Pi 4B / Firebase
-img: 	assets/img/projects/6_project_0.png
+img: 	assets/img/projects/6_project_5.png
 importance: 4
 category: Team
 ---
@@ -26,23 +26,5 @@ category: Team
 
 ## 프로젝트 결과
 
-{% include figure.html path="assets/img/projects/6_project_1.png" title="Login page" class="img-fluid rounded z-depth-1" %}
-Login page
-
-{% include figure.html path="assets/img/projects/6_project_2.png" title="Register page" class="img-fluid rounded z-depth-1" %}
-Register page
-
-{% include figure.html path="assets/img/projects/6_project_3.png" title="Home page" class="img-fluid rounded z-depth-1" %}
-Home page - 저장소에 사진이 없을 경우
-
-{% include figure.html path="assets/img/projects/6_project_4.png" title="Home page" class="img-fluid rounded z-depth-1" %}
-Home page - 저장소에 사진이 있을 경우
-
-{% include figure.html path="assets/img/projects/6_project_5.png" title="Result page" class="img-fluid rounded z-depth-1" %}
-Result page - Bad
-
-{% include figure.html path="assets/img/projects/6_project_6.png" title="Result page" class="img-fluid rounded z-depth-1" %}
-Result page - Good
-
-{% include figure.html path="assets/img/projects/6_project_7.png" title="User page" class="img-fluid rounded z-depth-1" %}
-User page
+{% include figure.html path="assets/img/projects/6_project_0.png" title="Login page" class="img-fluid rounded z-depth-1" %}
+App Screenshot
