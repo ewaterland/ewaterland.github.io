@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-<p>CONTACT</p>
-<p>ewatelan@gmail.com</p>
+subtitle: 
 
 profile:
   align: right
