@@ -52,11 +52,17 @@ category: Team
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_4-1.png" title="Dementia test image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_4-1.png" title="Dementia test main" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_4-2.png" title="Dementia Result" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_4-2.png" title="Dementia test" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/8_project_4-3.png" title="Dementia Result" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/8_project_5-1.png" title="Memory test image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -96,6 +102,9 @@ category: Team
 </div>
 
 <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/8_project_6.png" title="Dementia Center Map" class="img-fluid rounded z-depth-1" %}
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/8_project_15-1.png" title="Community List image" class="img-fluid rounded z-depth-1" %}
     </div>
