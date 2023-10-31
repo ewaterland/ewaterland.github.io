@@ -9,11 +9,6 @@ subtitle:
 Email
 ewatelan@gmail.com
 
-Github
-"https://github.com/ewaterland"
-
-Blog
-"https://ewaterland.tistory.com/"
 
 profile:
   align: right
