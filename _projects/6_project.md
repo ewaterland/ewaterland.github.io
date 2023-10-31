@@ -13,7 +13,7 @@ category: Team
 ---
 
 ## 프로젝트 내용
-- Dataset: Kaggle. YOLO object detection [Internet]. Available : [https://www.kaggle.com/datasets/3d799b302110574b352c39a202bd3ba1c3fc9f320fd7c847eb7f6a52a490fe98]
+- Dataset: Kaggle. Yoga Pose Classification [Internet]. Available : [https://www.kaggle.com/datasets/ujjwalchowdhury/yoga-pose-classification]
 - Tools: Android Studio, Firebase, Raspberry Pi 4B, Google Colab
 - Skills: JAVA, Python, Machine Learning
 - 제공 서비스
