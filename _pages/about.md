@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: **CONTACT**
+subtitle: CONTACT
 
 
 profile:
