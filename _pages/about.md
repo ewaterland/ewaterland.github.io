@@ -6,9 +6,6 @@ subtitle:
 
 **CONTACT**
 
-Email
-ewatelan@gmail.com
-
 
 profile:
   align: right
