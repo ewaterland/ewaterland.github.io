@@ -27,6 +27,7 @@ category: Team
 ## 프로젝트 결과
 - 2023년 8월 전남대학교 링크사업단에서 주최한 오아시스 해커톤 우수상 (21팀 中 3등)
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/8_project_0.png" title="Splash" class="img-fluid rounded z-depth-1" %}
