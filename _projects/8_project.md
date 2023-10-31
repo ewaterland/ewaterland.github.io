@@ -97,13 +97,13 @@ category: Team
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_15.png" title="Community List image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_15-1.png" title="Community List image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_16.png" title="Community Writing image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_15-2.png" title="Community Writing image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_17.png" title="MyPage image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_16.png" title="MyPage image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
