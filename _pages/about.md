@@ -4,7 +4,8 @@ title: About
 permalink: /
 subtitle:
 
-**CONTACT**
+CONTACT
+
 Email
 ewatelan@gmail.com
 
