@@ -47,7 +47,7 @@ category: Team
         {% include figure.html path="assets/img/projects/8_project_3-2.png" title="Register" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_3-3.png" title="Register" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_3-3.png" title="Main" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
