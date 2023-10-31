@@ -13,7 +13,7 @@ category: Team
 ---
 
 ## 프로젝트 내용
-- Dataset: Kaggle. Yoga Pose Classification [Internet]. Available : [https://www.kaggle.com/datasets/ujjwalchowdhury/yoga-pose-classification]
+- Dataset: Kaggle. Yoga Pose Classification. Available : [https://www.kaggle.com/datasets/ujjwalchowdhury/yoga-pose-classification]
 - Tools: Android Studio, Firebase, Raspberry Pi 4B, Google Colab
 - Skills: JAVA, Python, Machine Learning
 - 제공 서비스
