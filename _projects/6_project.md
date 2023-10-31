@@ -14,7 +14,7 @@ category: Team
 
 ## 프로젝트 내용
 - Dataset: Kaggle. YOLO object detection [Internet]. Available : [https://www.kaggle.com/datasets/3d799b302110574b352c39a202bd3ba1c3fc9f320fd7c847eb7f6a52a490fe98]
-- Tools: Android Studio, Raspberry Pi 4B
+- Tools: Android Studio, Firebase, Raspberry Pi 4B, Google Colab
 - Skills: JAVA, Python, Machine Learning
 - 제공 서비스
   - Goddess(여신 자세), Tree(나무 자세), Warrior(전사 자세), Downdog(다운독 자세) 총 4가지 운동 자세 중 원하는 자세 선택 후 라즈베리파이 웹캠으로 실시간 사진 촬영, 올바른 자세와 올바르지 않은 자세를 판별하여 결과 제공
