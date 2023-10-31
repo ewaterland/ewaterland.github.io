@@ -18,4 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+CONTACT
 
+Email
+ewatelan@gmail.com
+
+Github
+https://github.com/ewaterland
+
+Blog
+https://ewaterland.tistory.com/
