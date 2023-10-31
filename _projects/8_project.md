@@ -78,31 +78,31 @@ category: Team
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_7.png" title="Chatbot1 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_7.png" title="Chatbot1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_8.png" title="Chatbot2 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_8.png" title="Chatbot2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_9.png" title="Chatbot3 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_9.png" title="Chatbot3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_10.png" title="Hopital List image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_10.png" title="Hopital List" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_11.png" title="Hopital Reservation1 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_11.png" title="Hopital Reservation1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_12.png" title="Hopital Reservation2 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_12.png" title="Hopital Reservation2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_13.png" title="Hopital Reservation3 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_13.png" title="Hopital Reservation3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_14.png" title="Hopital Reservation4 image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_14.png" title="Hopital Reservation4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -111,13 +111,13 @@ category: Team
         {% include figure.html path="assets/img/projects/8_project_6.png" title="Dementia Center Map" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_15-1.png" title="Community List image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_15-1.png" title="Community List" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_15-2.png" title="Community Writing image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_15-2.png" title="Community Writing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_16.png" title="MyPage image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_16.png" title="MyPage" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
