@@ -1,14 +1,15 @@
 ---
 layout: page
-title: QI 심장병 분류 프로젝트
-description: 2023 / Machine Learning / KNIME
+title: 심장병 분류 프로젝트
+description: 2023.01.13.-2023.02.22. / Machine Learning / KNIME
 img: assets/img/projects/5_project_1.jpg
 importance: 3
 category: Team
 ---
 
 ## 프로젝트 목표
-- KNIME을 이용한 심장병 분류 프로젝트
+- USA, San Diego의 Qualcomm에서 진행한 프로젝트
+- KNIME을 이용한 심장병 분류가 목적
 
 ---
 
