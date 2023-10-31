@@ -8,8 +8,8 @@ category: Team
 ---
 
 ## 프로젝트 목표
-- USA, San Diego의 Qualcomm에서 진행한 프로젝트
-- KNIME을 이용한 심장병 분류가 목적
+- USA, San Diego의 Qualcomm에서 6주간 진행한 프로젝트입니다. 조선대학교 IT융합대학에서 면접을 통해 5명이 선발되어 참여하게 되었습니다.
+- KNIME을 이용한 심장병 분류를 목적으로 진행하였습니다.
 
 ---
 
