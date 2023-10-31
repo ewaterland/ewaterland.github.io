@@ -2,7 +2,7 @@
 layout: page
 title: QI 심장병 분류 프로젝트
 description: 2023 / Machine Learning / KNIME
-img: assets/img/1.jpg
+img: assets/img/projects/5_project_1.jpg
 importance: 3
 category: Team
 ---
