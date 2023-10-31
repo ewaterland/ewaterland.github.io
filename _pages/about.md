@@ -21,12 +21,12 @@ social: false  # includes social icons at the bottom of the page
 
 Email
 
-ewatelan@gmail.com
+[ewatelan@gmail.com](ewatelan@gmail.com)
 
 Github
 
-https://github.com/ewaterland
+[https://github.com/ewaterland](https://github.com/ewaterland)
 
 Blog
 
-https://ewaterland.tistory.com/
+[https://ewaterland.tistory.com/](https://ewaterland.tistory.com/)
