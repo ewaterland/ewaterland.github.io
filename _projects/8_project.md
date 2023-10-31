@@ -21,7 +21,6 @@ category: Team
     - 기억력 테스트
     - 커뮤니티
     - 병원 예약 서비스 (미구현)
- 
 
 ---
 
@@ -30,25 +29,39 @@ category: Team
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_1.png" title="Register image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_0.png" title="Splash" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_2.png" title="Login image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_1.png" title="Login Main" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_3.png" title="Main image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_2.png" title="Login" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/8_project_3-1.png" title="Register" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/8_project_3-2.png" title="Register" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/8_project_3-3.png" title="Register" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_4.png" title="Dementia test image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_4-1.png" title="Dementia test image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_5.png" title="Memory test image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_4-2.png" title="Dementia Result" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/8_project_6.png" title="Result image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/8_project_5-1.png" title="Memory test image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/8_project_5-2.png" title="Memory Result" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
