@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SVSTIP 프로젝트
+title: 게임 베타 테스터 앱
 description: 2022 / Android Studio(JAVA)
 img: assets/img/projects/3_project_1.png
 importance: 3
@@ -15,6 +15,7 @@ category: Team
 
 ## 프로젝트 내용
 - 앱 개발자를 위한 베타 테스터 앱의 프론트엔드 구현
+- 주관: 산호세 주립대학교, Silicon Valley Conter for Operations & Technology Management Program
 
 ---
 
