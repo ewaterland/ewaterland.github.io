@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Korea</p>
+    <p>2001.10.12</p>
     <p>ewatelan@gmail.com</p>
 
 news: true  # includes a list of news items
