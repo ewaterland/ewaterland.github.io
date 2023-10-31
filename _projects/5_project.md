@@ -20,4 +20,4 @@ category: Team
 ---
 
 ## 프로젝트 결과
-- Su-ji Lee, Gyu-bin Kim, Joo-Hyun Kim. "Analysis of Heart Disease Classification Using Machine Learning Algorithms". The Korean Institute of Communications and Information Sciences
+- Su-ji Lee, Gyu-bin Kim, Joo-Hyun Kim. "Analysis of Heart Disease Classification Using Machine Learning Algorithms". KICS
