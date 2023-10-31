@@ -21,3 +21,5 @@ category: Team
 
 ## 프로젝트 결과
 - Su-ji Lee, Gyu-bin Kim, Joo-Hyun Kim. "Analysis of Heart Disease Classification Using Machine Learning Algorithms". KICS
+
+{% include figure.html path="assets/img/projects/5_project_1.png" title="Poster" class="img-fluid rounded z-depth-1" %} Poster
