@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 Email
 
-[ewatelan@gmail.com](ewatelan@gmail.com)
+ewatelan@gmail.com
 
 Github
 
