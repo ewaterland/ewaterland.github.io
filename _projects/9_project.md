@@ -57,7 +57,7 @@ category: Single
         {% include figure.html path="assets/img/projects/9_project_4.png" title="Result_선명하게" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/9_project_5.png" title="Result_어둡게 " class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/9_project_5.PNG" title="Result_어둡게 " class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/9_project_6.png" title="Result_좌우반전 " class="img-fluid rounded z-depth-1" %}
