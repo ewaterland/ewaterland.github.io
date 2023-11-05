@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 심장병 분류 프로젝트
-description: 2023.01.-2023.02. <br/> Machine Learning / KNIME
+description: 2023.01.-2023.02. <br/> Python / Machine Learning / KNIME
 img: assets/img/projects/5_project_1.jpg
 importance: 3
 category: Team
