@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 인생네컷 프로그램
-description: 2022.05.-06. <br/> C++ / Visual Studio
+description: 2022.05.-2022.06. <br/> C++ / Visual Studio
 img: assets/img/projects/9_project_thumbnail.png
 importance: 3
 category: Single
