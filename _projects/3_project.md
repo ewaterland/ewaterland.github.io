@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 게임 베타 테스터 앱
-description: 2022.07.-2022.08. / Android Studio(JAVA)
+description: 2022.07.-2022.08. <br/> Android Studio(JAVA)
 img: assets/img/projects/3_project_1.png
 importance: 3
 category: Team
