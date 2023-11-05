@@ -1,14 +1,14 @@
 ---
 layout: page
 title: 인생네컷 프로그램
-description: 2022.05.-06. / Android Studio(JAVA)
-img: assets/img/projects/8_project_thumbnail.jpg
+description: 2022.05.-06. / C++
+img: assets/img/projects/9_project_thumbnail.png
 importance: 3
-category: Team
+category: Single
 ---
 
 ## 프로젝트 목표
-- 사진 4장을 입력하면 셀프 스튜디오처럼 사진을 출력하기
+- 사진 3장을 입력하면 셀프 스튜디오처럼 사진을 출력하기
 
 ---
 
@@ -17,7 +17,7 @@ category: Team
 
 - 과정
 1. 구현할 사진을 RAW 파일로 변환
-2. 4장의 컬러 이미지 파일 입력
+2. 3장의 컬러 이미지 파일 입력
 3. 메뉴바에서 보정 종류 선택
 4. 선택한 보정에 따라 영상처리
 
