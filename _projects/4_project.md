@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MFC 노래 퀴즈 프로그램
-description: 2022.11.-2022.12. / C++ / MFC / Visual Studio 2019
+description: 2022.11.-2022.12. <br/> C++ / MFC / Visual Studio 2019
 img: assets/img/projects/4_project_1.png
 importance: 3
 category: Team
