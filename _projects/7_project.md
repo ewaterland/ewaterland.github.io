@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 실내 위치 추정 라인트래킹 배달 로봇
-description: 2023.03. - present
+description: 2023.03. - present <br/> Android APP(JAVA)
 img: assets/img/projects/7_project_1.jpg
 importance: 3
 category: Team
