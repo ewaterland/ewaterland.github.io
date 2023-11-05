@@ -21,6 +21,7 @@ category: Team
 
 ## 프로젝트 결과
 - SVSTIP 프로젝트 8팀 중 4등
+- 담당 교수님께 앱의 완성도가 가장 높다는 칭찬을 받은 경험
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
