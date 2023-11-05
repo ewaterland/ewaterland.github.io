@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 의료 영상 분할을 위한 변형 U-Net 성능 비교 분석
-description: 2022.07.-2022.10. / Python / Deep Learning / Jupyter Notebook
+description: 2022.07.-2022.10. <br/> Python / Deep Learning / Jupyter Notebook
 img: assets/img/projects/2_project_1.JPG
 importance: 2
 category: Team
